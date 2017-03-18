@@ -1,0 +1,14 @@
+name: Kings
+main: me.BajanAmerican.Kings.Kings
+version: 1.0
+description: >
+              My Kings plugin. 
+commands:
+     vote: 
+       description: Votes for King!
+     hub: 
+       description: Teleports you to Hub!
+     timerset: 
+       description: Sets time!
+     list: 
+       description: Sets time!
